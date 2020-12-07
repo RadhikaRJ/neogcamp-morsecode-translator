@@ -9,6 +9,11 @@
     align-items: center;
     margin: 2rem 2rem;
     font-family: 'Audiowide', cursive;
+    border-radius: 15%;
+}
+
+::placeholder{
+    color: white;
 }
 
 .container textarea{
@@ -19,6 +24,7 @@
     background-color:transparent;
     margin: 2rem 2rem;
     font-family: 'Audiowide', cursive;
+    color: white;
 }
 
 .container #btn-translate{
